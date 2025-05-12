@@ -1,0 +1,13 @@
+name: tbt450x
+
+channels:
+  - conda-forge # nglview, biopython, goatools
+  - bioconda    # pyrodigal
+
+dependencies:
+  - jupyterlab   # lectures: all
+  - matplotlib   # lectures: 2, 7
+  - biopython    # lectures: 2, 3, 4, 6, 7
+  - pyrodigal    # lectures: 3
+  - nglview      # lectures: 6
+  - goatools     # lectures: 7
