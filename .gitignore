@@ -1,7 +1,7 @@
 .DS_Store
 */.DS_Store
-*/.ipynb_checkpoints/*.ipynb
-
+*/.ipynb_checkpoints/*
+*/*/.ipynb_checkpoints/*
+*/*/*/.ipynb_checkpoints/*
 lecture_02/output/*
-lecture_02/files/galaxy/.ipynb_checkpoints/download-checkpoint.png
-lecture_02/.ipynb_checkpoints/long_contigs-checkpoint.fasta
+
